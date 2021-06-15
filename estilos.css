@@ -31,7 +31,7 @@ body
     padding: 1em;
     text-align: left;
     border: 2px solid rgb(19, 15, 15);
-    margin: 3 auto;
+    margin: 0 auto;
 }
 
 #container h1
@@ -42,4 +42,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: rgb(65, 60, 62);
+    color: white;
+    text-align: center;
+
 }
