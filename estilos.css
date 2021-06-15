@@ -1,5 +1,6 @@
 body
 {
+    background: cornflowerblue;
     color: rgb(20, 100, 73);
     text-align: center;
     font-family: "Arial";
@@ -26,12 +27,16 @@ body
 }
 
 #container
-{
+{   background: white;
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 2px solid rgb(19, 15, 15);
     margin: 3 auto;
+}
+#logo
+{
+
 }
 
 #container h1
