@@ -7,6 +7,7 @@ Nunca había tenido contacto con Git o Github, estoy aprendiendo desde una macbo
 
 Todo esto gracias al esfuerzo y dedicación de la plataforma Platzi con la que puedo contar.
 Acabo de inscribirme a un reto de javascript
+Estoy a la espera de que me contacten
 ## El proximo paso.
 
 Posterior a este curso de Git y GitHub, me encaminaré al desarrollo frontend con los 3 mosqueteros HTML, CSS y Javascript, con los cuales he tenido contatco y representan un reto para mí.
